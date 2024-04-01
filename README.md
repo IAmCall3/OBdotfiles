@@ -32,7 +32,8 @@ Speaking of fonts, they used to not render correctly for some reason, so I have 
 
 The background is set by using `feh --bg-scale` on an image and then copying said image to `.config/bg.png`.  
 (To make things faster, I created a custom action in Thunar with the `feh --bg-scale %n && cp %n ~/.config/bg.png` command).  
-When you login, the background is set by a command you can find in `.config/openbox/autostart`.
+When you login, the background is set by a command you can find in `.config/openbox/autostart`.  
+The wallpaper you can see in the screenshots comes from [here](https://wallhaven.cc/w/72yzje).
 
 The panels at the top of the screen are made with Tint2, while the shadows are rendered with picom.  
 These are also loaded at login through `.config/openbox/autostart`.
