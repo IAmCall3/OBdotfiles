@@ -149,7 +149,7 @@ configuration {
       sorting-method:    "name";
   }
 }
-@theme "/home/andrea/.local/share/rofi/themes/call3.rasi"
+@theme "/home/andrea/.local/share/rofi/themes/openbox.rasi"
 
 window {
   width: 600px;
