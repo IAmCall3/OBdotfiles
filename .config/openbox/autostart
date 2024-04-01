@@ -21,5 +21,4 @@ feh --bg-scale ~/.config/bg.png &
 tint2 -c .config/tint2/leftdock.tint2rc &
 tint2 -c .config/tint2/desktops.tint2rc &
 tint2 -c .config/tint2/clock.tint2rc &
-easyeffects --gapplication-service &
 picom -b
