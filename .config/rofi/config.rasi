@@ -1,6 +1,6 @@
 configuration {
 /*	modes: "window,drun,run,ssh";*/
-	font: "AnonymicePro Nerd Font 14";
+	font: "AnonymicePro Nerd Font 13";
 /*	location: 0;*/
 /*	yoffset: 0;*/
 /*	xoffset: 0;*/
