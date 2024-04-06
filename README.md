@@ -44,7 +44,7 @@ It's nothing special, it's just a pre-made theme that I edited to fit the aesthe
 
 The `.scripts` folder contains scripts (duh) that I wrote for executing commands with xbindkeys.  
 They are mostly for taking screenshots and getting a notification about the screenshot you have just taken, plus a couple of scripts for volume changes.  
-In order for it to work with xbindkeys, just place it in your home directory.  
+In order for it to work with the `.xbindkeysrc` file, just place it in your home directory.  
 Remember to `chmod +x` them!
 
 That should be all, if I missed anything I'll try and remember to change this description or add the necessary files.
